@@ -40,7 +40,7 @@ class MoreScreen extends StatelessWidget {
                     await launch(link.url);
                   }
                 },
-                text:"https://github.com/darkdooy",
+                text:"https://github.com/darkdooy/flutter_first",
                 style: TextStyle(fontWeight: FontWeight.bold, fontSize: 20),
                 linkStyle: TextStyle(color: Colors.white),
               ),
